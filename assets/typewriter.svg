@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="120" viewBox="0 0 760 120" role="img" aria-label="UHQ GitHub accounts, engagement and profile builds">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <clipPath id="reveal"><rect x="0" y="0" width="0" height="120"><animate attributeName="width" from="0" to="700" dur="4s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="758" height="118" rx="18" fill="url(#bg)" stroke="url(#accent)" stroke-width="2"/>
+  <text x="40" y="45" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">ALPIN TÀMHAS · REPOBOOST</text>
+  <g clip-path="url(#reveal)">
+    <text x="40" y="82" fill="#F9FAFB" font-family="Consolas, Menlo, monospace" font-size="21" font-weight="700">UHQ accounts · stars · forks · profile builds</text>
+  </g>
+  <rect x="40" y="96" width="0" height="3" fill="url(#accent)"><animate attributeName="width" from="0" to="520" dur="4s" fill="freeze"/></rect>
+  <text x="710" y="82" fill="#A78BFA" font-family="Consolas, Menlo, monospace" font-size="21">█<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+</svg>
