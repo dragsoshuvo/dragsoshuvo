@@ -2,7 +2,11 @@
 
 # Alpin Tàmhas
 
-**GitHub accounts · direct owner contact**
+<a href="https://t.me/AlpinTamhas928">
+  <img src="assets/typewriter.svg" alt="UHQ GitHub accounts and engagement" width="760">
+</a>
+
+<br><br>
 
 <a href="https://t.me/AlpinTamhas928">
   <img src="assets/telegram-button.svg" alt="Telegram - Direct Contact" height="64">
@@ -19,6 +23,15 @@
 ### Account ownership
 
 This account belongs to **Alpin Tàmhas** and is operated by the owner.
+
+### Services
+
+- GitHub stars, forks, watches and followers from aged accounts
+- Aged GitHub accounts and custom account builds
+- GitHub search ranking, PAT generation and repository setup
+- Profile building: bio, avatar, pinned repos, contribution activity and organization membership
+
+Full service list, pricing and delivery details: **[buygithub.com](https://buygithub.com/)**
 
 ### Purchase or transfer
 
